@@ -22,7 +22,7 @@
 
 }
 
-@media (min-width: 768px) { 
+@media (max-width: 768px) { 
 	.logo {
 		margin-top: 20px;
 		}
