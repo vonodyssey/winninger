@@ -6,7 +6,7 @@
 /*# sourceMappingURL=bootstrap.min.css.map */
 
 .home-image {
-	background: url(../office.jpg) no-repeat top center fixed; 
+	background: url(../office.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
